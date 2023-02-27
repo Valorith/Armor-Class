@@ -1,0 +1,14 @@
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by io.netty.util.internal.ReflectionUtil (file:/C:/Users/rgagn/.cache/firebase/emulators/firebase-database-emulator-v4.11.0.jar) to field sun.nio.ch.SelectorImpl.selectedKeys
+WARNING: Please consider reporting this to the maintainers of io.netty.util.internal.ReflectionUtil
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+19:10:24.701 [NamespaceSystem-akka.actor.default-dispatcher-4] INFO akka.event.slf4j.Slf4jLogger - Slf4jLogger started
+19:10:24.866 [main] INFO com.firebase.server.forge.App$ - Listening at 127.0.0.1:9000
+19:10:30.931 [NamespaceSystem-akka.actor.default-dispatcher-6] INFO com.firebase.core.namespace.NamespaceActor - eqraidprofiler-default-rtdb successfully activated FBKV (SurveyIdle(0)) wait: 130ms, init: 0ms
+19:10:31.007 [NamespaceSystem-blocking-namespace-operation-dispatcher-7] INFO com.firebase.core.namespace.StateManager - Namespace eqraidprofiler-default-rtdb status Active to Active
+19:12:19.997 [FirebaseWorkerPool-1-1] WARN com.firebase.core.persistence.backend.dummy.EmulatorMetadataPersistence - Multiple projectIds are not recommended in single project mode. Requested 
+namespace eqraidprofiler, but the emulator is configured for eqraidprofiler-default-rtdb. To 
+opt-out of single project mode add/set the single_project_mode: false property in 
+the firebase.json emulators config. 
+19:12:20.009 [NamespaceSystem-akka.actor.default-dispatcher-13] INFO com.firebase.core.namespace.NamespaceActor - eqraidprofiler successfully activated FBKV (SurveyIdle(0)) wait: 8ms, init: 0ms
