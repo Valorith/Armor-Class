@@ -5,210 +5,146 @@
       <b-row>
         <b-col xl="3" md="6">
           <stats-card
-            title="Tank"
+            title="Warrior"
             type="gradient-red"
-            sub-title="Warrior"
             classImage="Icon_class_warrior.gif"
-            class="mb-4"
+            class="mb-4 text-center"
           >
-            <template slot="footer">
-              <span class="text-nowrap">Gear Profiles: 0</span>
-            </template>
           </stats-card>
         </b-col>
         <b-col xl="3" md="6">
           <stats-card
-            title="Tank"
+            title="Paladin"
             type="gradient-orange"
-            sub-title="Paladin"
             classImage="Icon_class_paladin.gif"
-            class="mb-4"
+            class="mb-4 text-center"
           >
-            <template slot="footer">
-              <span class="text-nowrap">Gear Profiles: 0</span>
-            </template>
           </stats-card>
         </b-col>
         <b-col xl="3" md="6">
           <stats-card
-            title="Tank"
+            title="Shadow Knight"
             type="gradient-green"
-            sub-title="ShadowKnight"
             classImage="Icon_class_shadowknight.gif"
-            class="mb-4"
+            class="mb-4 text-center"
           >
-            <template slot="footer">
-              <span class="text-nowrap">Gear Profiles: 0</span>
-            </template>
           </stats-card>
         </b-col>
         <b-col xl="3" md="6">
           <stats-card
-            title="Caster DPS"
+            title="Magician"
             type="gradient-info"
-            sub-title="Magician"
             classImage="Icon_class_magician.gif"
-            class="mb-4"
+            class="mb-4 text-center"
           >
-            <template slot="footer">
-              <span class="text-nowrap">Gear Profiles: 0</span>
-            </template>
           </stats-card>
         </b-col>
         <b-col xl="3" md="6">
           <stats-card
-            title="Caster DPS"
+            title="Wizard"
             type="gradient-info"
-            sub-title="Wizard"
             classImage="Icon_class_wizard.gif"
-            class="mb-4"
+            class="mb-4 text-center"
           >
-            <template slot="footer">
-              <span class="text-nowrap">Gear Profiles: 0</span>
-            </template>
           </stats-card>
         </b-col>
         <b-col xl="3" md="6">
           <stats-card
-            title="Caster DPS"
+            title="Necromancer"
             type="gradient-info"
-            sub-title="Necromancer"
             classImage="Icon_class_necromancer.gif"
-            class="mb-4"
+            class="mb-4 text-center"
           >
-            <template slot="footer">
-              <span class="text-nowrap">Gear Profiles: 0</span>
-            </template>
           </stats-card>
         </b-col>
         <b-col xl="3" md="6">
           <stats-card
-            title="Healer"
+            title="Cleric"
             type="gradient-info"
-            sub-title="Cleric"
             classImage="Icon_class_cleric.gif"
-            class="mb-4"
+            class="mb-4 text-center"
           >
-            <template slot="footer">
-              <span class="text-nowrap">Gear Profiles: 0</span>
-            </template>
           </stats-card>
         </b-col>
         <b-col xl="3" md="6">
           <stats-card
-            title="Healer"
+            title="Druid"
             type="gradient-info"
-            sub-title="Druid"
             classImage="Icon_class_druid.gif"
-            class="mb-4"
+            class="mb-4 text-center"
           >
-            <template slot="footer">
-              <span class="text-nowrap">Gear Profiles: 0</span>
-            </template>
           </stats-card>
         </b-col>
         <b-col xl="3" md="6">
           <stats-card
-            title="Support"
+            title="Shaman"
             type="gradient-info"
-            sub-title="Shaman"
             classImage="Icon_class_shaman.gif"
-            class="mb-4"
+            class="mb-4 text-center"
           >
-            <template slot="footer">
-              <span class="text-nowrap">Gear Profiles: 0</span>
-            </template>
           </stats-card>
         </b-col>
         <b-col xl="3" md="6">
           <stats-card
-            title="Support"
+            title="Enchanter"
             type="gradient-info"
-            sub-title="Enchanter"
             classImage="Icon_class_enchanter.gif"
-            class="mb-4"
+            class="mb-4 text-center"
           >
-            <template slot="footer">
-              <span class="text-nowrap">Gear Profiles: 0</span>
-            </template>
           </stats-card>
         </b-col>
         <b-col xl="3" md="6">
           <stats-card
-            title="Support"
+            title="Bard"
             type="gradient-info"
-            sub-title="Bard"
             classImage="Icon_class_bard.gif"
-            class="mb-4"
+            class="mb-4 text-center"
           >
-            <template slot="footer">
-              <span class="text-nowrap">Gear Profiles: 0</span>
-            </template>
           </stats-card>
         </b-col>
         <b-col xl="3" md="6">
           <stats-card
-            title="Melee DPS"
+            title="Beastlord"
             type="gradient-info"
-            sub-title="Beastlord"
             classImage="Icon_class_beastlord.gif"
-            class="mb-4"
+            class="mb-4 text-center"
           >
-            <template slot="footer">
-              <span class="text-nowrap">Gear Profiles: 0</span>
-            </template>
           </stats-card>
         </b-col>
         <b-col xl="3" md="6">
           <stats-card
-            title="Melee DPS"
+            title="Berserker"
             type="gradient-info"
-            sub-title="Berserker"
             classImage="Icon_class_beserker.gif"
-            class="mb-4"
+            class="mb-4 text-center"
           >
-            <template slot="footer">
-              <span class="text-nowrap">Gear Profiles: 0</span>
-            </template>
           </stats-card>
         </b-col>
         <b-col xl="3" md="6">
           <stats-card
-            title="Melee DPS"
+            title="Monk"
             type="gradient-info"
-            sub-title="Monk"
             classImage="Icon_class_monk.gif"
-            class="mb-4"
+            class="mb-4 text-center"
           >
-            <template slot="footer">
-              <span class="text-nowrap">Gear Profiles: 0</span>
-            </template>
           </stats-card>
         </b-col>
         <b-col xl="3" md="6">
           <stats-card
-            title="Melee DPS"
+            title="Rogue"
             type="gradient-info"
-            sub-title="Rogue"
             classImage="Icon_class_rogue.gif"
-            class="mb-4"
+            class="mb-4 text-center"
           >
-            <template slot="footer">
-              <span class="text-nowrap">Gear Profiles: 0</span>
-            </template>
           </stats-card>
         </b-col>
         <b-col xl="3" md="6">
           <stats-card
-            title="Hybrid"
+            title="Ranger"
             type="gradient-info"
-            sub-title="Ranger"
             classImage="Icon_class_ranger.gif"
-            class="mb-4"
+            class="mb-4 text-center"
           >
-            <template slot="footer">
-              <span class="text-nowrap">Gear Profiles: 0</span>
-            </template>
           </stats-card>
         </b-col>
       </b-row>
